@@ -62,3 +62,9 @@
 .sysinfo {
     margin-right: 6px;
 }
+
+/* Weather */
+.script {
+    margin-left: 12px;
+    font-family: 'JetBrains Mono', monospace;
+}

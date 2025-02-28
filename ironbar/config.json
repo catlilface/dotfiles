@@ -9,6 +9,12 @@
                 {
                     "type": "clock",
                     "format": "%H:%M:%S %d/%m/%y"
+                },
+                {
+                    "type": "script",
+                    "cmd": "~/.config/ironbar/weather.sh",
+                    "mode": "poll",
+                    "interval": 60000
                 }
             ],
             "center": [
