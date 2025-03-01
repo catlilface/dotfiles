@@ -81,12 +81,12 @@
                 },
                 {
                   "type": "clock",
-                  "format": "%H:%M"
+                  "format": "%d/%m",
+                  "name": "clock_date"
                 },
                 {
                   "type": "clock",
-                  "format": "%d/%m",
-                  "name": "clock_date"
+                  "format": "%H:%M"
                 }
             ]
         }
