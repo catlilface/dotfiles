@@ -5,9 +5,7 @@ My super duper arch environment
 - hyprland
 - hyprpaper
 - ironbar
-- ghostty
-- google-chrome
-- dolphin
+- wofi
 
 Installation
 ```bash
