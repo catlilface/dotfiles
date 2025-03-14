@@ -9,6 +9,6 @@ My super duper arch environment
 
 Installation
 ```bash
-sudo pacman -S hyprland hyprpaper btop bat fzf dolphin
+sudo pacman -S hyprland hyprpaper btop bat fzf dolphin wofi
 yay -S ironbar-git ghostty google-chrome 
 ```
