@@ -38,4 +38,9 @@ Plugin string for .zshrc:<br>
 ## After installation
 ```bash
 sudo pacman -Syu
+
+# Pulseaudio patch
+sudo pacman -S pipewire pipewire-pulse wireplumber 
+systemctl daemon-reload
+systemctl --user enable --now pipewire pipewire-pulse pipewire.socket pipewire-pulse.socket
 ```
