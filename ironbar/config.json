@@ -82,11 +82,13 @@
                 {
                   "type": "clock",
                   "format": "%d/%m",
-                  "name": "clock_date"
+                  "name": "clock_date",
+		  "orientation": "h"
                 },
                 {
                   "type": "clock",
-                  "format": "%H:%M"
+                  "format": "%H:%M",
+		  "orientation": "h"
                 }
             ]
         }
