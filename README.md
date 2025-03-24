@@ -7,11 +7,12 @@ My super duper arch environment
 - ironbar
 - wofi
 - pulseaudio
+- grim
 
 Installation
 ```bash
 sudo pacman -S hyprland hyprpaper btop bat fzf dolphin wofi pulseaudio
-yay -S ironbar-git ghostty google-chrome ansiweather visual-studio-code-bin
+yay -S ironbar-git ghostty google-chrome ansiweather visual-studio-code-bin grim slurp
 ```
 Dark theme support for GTK apps
 ```bash
