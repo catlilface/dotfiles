@@ -25,7 +25,11 @@ curl -Ls https://github.com/Kira-NT/outline-cli/blob/master/install.sh?raw=true 
 ## Oh-my-zsh
 Zsh install 
 ```bash
-sudo pacman -S zsh
+sudo pacman -S zsh zsh-autosuggestions zsh-syntax-highlighting
+```
+oh-my-zsh
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 Plugins
 ```bash
