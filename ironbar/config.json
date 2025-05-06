@@ -57,11 +57,11 @@
         },
         "DP-1": {
             "name": "right",
-            "position": "left",
+            "position": "right",
             "height": 55,
             "margin": {
                 "top": 4,
-                "right": 2,
+                "right": 4,
                 "bottom": 4,
                 "left": 2
             },
